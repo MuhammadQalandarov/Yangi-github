@@ -1,2 +1,3 @@
 2-o'zgarishlarim
 2- marta o'zgartirildi....
+git pull va buyrugi uchun
